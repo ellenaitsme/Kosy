@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|c:\\users\\aelle\\source\\kosy\\kosy\\kosy\\views\\insertpropertytypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|solutionrelative:kosy\\views\\insertpropertytypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|c:\\users\\aelle\\source\\kosy\\kosy\\kosy\\views\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|solutionrelative:kosy\\views\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|c:\\users\\aelle\\source\\kosy\\kosy\\kosy\\views\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|solutionrelative:kosy\\views\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|c:\\users\\aelle\\source\\kosy\\kosy\\kosy\\views\\transactionhistorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|solutionrelative:kosy\\views\\transactionhistorypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|c:\\users\\aelle\\source\\kosy\\kosy\\kosy\\views\\transactionhistorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AA6A82C4-6B88-4B4C-BF74-D167198E808B}|Kosy\\Kosy.csproj|solutionrelative:kosy\\views\\transactionhistorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertPropertyTypePage.aspx",
+              "DocumentMoniker": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\InsertPropertyTypePage.aspx",
+              "RelativeDocumentMoniker": "Kosy\\Views\\InsertPropertyTypePage.aspx",
+              "ToolTip": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\InsertPropertyTypePage.aspx",
+              "RelativeToolTip": "Kosy\\Views\\InsertPropertyTypePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-19T07:00:40.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandleTransactionPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\HandleTransactionPage.aspx.cs",
+              "RelativeDocumentMoniker": "Kosy\\Views\\HandleTransactionPage.aspx.cs",
+              "ToolTip": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\HandleTransactionPage.aspx.cs",
+              "RelativeToolTip": "Kosy\\Views\\HandleTransactionPage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwEEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:50:31.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionHistoryPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\TransactionHistoryPage.aspx.cs",
+              "RelativeDocumentMoniker": "Kosy\\Views\\TransactionHistoryPage.aspx.cs",
+              "ToolTip": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\TransactionHistoryPage.aspx.cs",
+              "RelativeToolTip": "Kosy\\Views\\TransactionHistoryPage.aspx.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:50:19.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandleTransactionPage.aspx",
+              "DocumentMoniker": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\HandleTransactionPage.aspx",
+              "RelativeDocumentMoniker": "Kosy\\Views\\HandleTransactionPage.aspx",
+              "ToolTip": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\HandleTransactionPage.aspx",
+              "RelativeToolTip": "Kosy\\Views\\HandleTransactionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-19T06:49:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionHistoryPage.aspx",
+              "DocumentMoniker": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\TransactionHistoryPage.aspx",
+              "RelativeDocumentMoniker": "Kosy\\Views\\TransactionHistoryPage.aspx",
+              "ToolTip": "C:\\Users\\aelle\\source\\KOSY\\Kosy\\Kosy\\Views\\TransactionHistoryPage.aspx",
+              "RelativeToolTip": "Kosy\\Views\\TransactionHistoryPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-19T06:49:44.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

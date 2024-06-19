@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="870c88bf1b00485bae4782d9c263805a" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="KosyDatabaseModel.Cart" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.Property" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.PropertyOwner" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.PropertyType" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.TransactionDetail" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.TransactionHeader" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="KosyDatabaseModel.User" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_Carts_Properties" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_Carts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_Properties_PropertyOwners" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_Properties_PropertyTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_TransactionDetails_ToProperties" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_TransactionDetails_ToTransactionHeaders" ManuallyRouted="false" />
+        <AssociationConnector Association="KosyDatabaseModel.FK_TransactionHeaders_ToUsers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
